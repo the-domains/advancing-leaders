@@ -6,9 +6,9 @@ color:
   saturation: 0.22157957614399493
   rhythmicContrast: 0.02147979475557804
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#243D65'
+    - '#A3ACC9'
+    - '#58595B'
+    - '#D9D9DB'
 name: advancing leaders
