@@ -1,0 +1,14 @@
+layout_spectrum: 0.8089776241686195
+typography_spectrum: 0.8236643150448799
+color:
+  brandStrength: 0.7073343920055777
+  lightness: 0.22724826633930206
+  saturation: 0.22157957614399493
+  rhythmicContrast: 0.02147979475557804
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: advancing leaders
